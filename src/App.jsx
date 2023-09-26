@@ -59,7 +59,7 @@ function App({ count = 20, depth = 80 }) {
             font="/bangers-v20-latin-regular.woff"
             scale={1.2}
           >
-            Remebering the crewmates
+            Remembering the crewmates
           </Text>
           <Text
             position={[0, -1, -depth / 3]}
